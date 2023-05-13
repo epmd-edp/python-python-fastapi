@@ -1,0 +1,1 @@
+1. Application python-python-fastapi has been successfully deployed!!
